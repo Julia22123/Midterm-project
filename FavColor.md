@@ -2,6 +2,9 @@
 [My favorite seasons](FavorteSeasons.md) | [HTML](LastPage.md)
 ---
 ### A list of my favorite colors
+
+This a **ordered** list goes from *1-4*
+
 1. Light shades of blue
 ![](ShadesOfBlue.png?raw=true)
 2. Any other blue color
